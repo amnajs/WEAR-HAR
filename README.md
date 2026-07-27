@@ -6,8 +6,8 @@ It is an optimized version of the WEAR dataset annotating pipeline by Bock et al
 - Adjust the activity envelopes according to the peaks, close window to save the labelled dataset.
 
 # Contact
-Amna.Shaikh@student.uni-siegen.de
-Oscar.JimenezMartinez@student.uni-siegen.de
+- Amna.Shaikh@student.uni-siegen.de
+- Oscar.JimenezMartinez@student.uni-siegen.de
 
 
 # Reference
